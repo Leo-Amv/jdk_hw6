@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f00ce96-cd8e-46a6-b4ff-83040e2b392a" name="Changes" comment="monti game stat version completed">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3f00ce96-cd8e-46a6-b4ff-83040e2b392a" name="Changes" comment="Maven proj completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Monti_Game-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/gb/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/gb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/gb/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/gb/stats/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/gb/stats/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/gb/stats/Players.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +59,12 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ru.gb.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.gb.stats.Main" />
       <module name="Monti_Game" />
@@ -66,8 +78,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.gb.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.Main" />
+      <module name="Monti_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.gb.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.Main" />
+      <module name="Monti_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.gb.Main (1)" />
+        <item itemvalue="Application.ru.gb.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -80,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701346213588</updated>
-      <workItem from="1701346214658" duration="12696000" />
+      <workItem from="1701346214658" duration="15745000" />
     </task>
     <task id="LOCAL-00001" summary="monti logic game 1 version completed">
       <created>1701354704919</created>
@@ -103,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701362904167</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Maven proj completed">
+      <created>1701363405129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701363405129</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +160,7 @@
     <MESSAGE value="monti logic game 1 version completed" />
     <MESSAGE value="monti game 2 version completed" />
     <MESSAGE value="monti game stat version completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="monti game stat version completed" />
+    <MESSAGE value="Maven proj completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maven proj completed" />
   </component>
 </project>
